@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FINAL DE ANO</string>
+    <string name="hoje">Hoje: </string>
+    <string name="dias_restantes_para_o_fim_do_ano">Dias restantes para o fim do ano</string>
+    <string name="sim_nao_confirmado">SIM/NAO CONFIRMADO</string>
+    <string name="voce_vai_participar">voce vai participar ?</string>
+    <string name="naoConfirmado">Nao confirmado!</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Nao</string>
+    <string name="dias">Dias</string>
+
+</resources>
